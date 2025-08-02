@@ -1,4 +1,4 @@
-
+---
 
 ```markdown
 # 🏡 DreamSpace
@@ -25,7 +25,6 @@
 | **Backend**      | Node.js, Express.js                 |
 | **Database**     | MongoDB Atlas                       |
 | **Authentication** | JWT (JSON Web Tokens)            |
-| **Real-time**    | Socket.IO                           |
 | **Deployment**   | Render / Vercel (Frontend & Backend)|
 
 ---
@@ -104,12 +103,14 @@ npm run dev
 npm start
 ```
 
-
 ---
+
+
 
 ## 🧑‍💻 Author
 
 **Shaik Asma**
+
 
 ---
 
@@ -122,3 +123,4 @@ npm start
 * Render/Vercel
 
 
+---
