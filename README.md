@@ -1,9 +1,7 @@
 ---
+## 🏡 DreamSpace
 
-```markdown
-# 🏡 DreamSpace
-
-**DreamSpace** is a full-stack real estate platform designed to simplify the property rental and buying experience. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), DreamSpace allows users to explore listings, connect with property owners.
+"DreamSpace"  is a full-stack real estate platform designed to simplify the property rental and buying experience. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), DreamSpace allows users to explore listings, connect with property owners.
 
 ---
 
@@ -47,7 +45,7 @@ dreamSpace/
 ├── package.json
 └── README.md
 
-````
+```
 
 ---
 
